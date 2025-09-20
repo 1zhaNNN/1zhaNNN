@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1zhaNNN
-- 👀 I’m interested in being an expert web developer!
-- 🌱 I’m currently learning the Odin Foundation Project.
-- 📫 How to reach me --> izhan.asif999@gmail.com
+- 👋 Hi, I’m @1zhaNNN  
+- 👀 I’m focused on becoming a skilled Java developer.  
+- 🌱 I’m currently learning Java, Spring Boot, and building projects to strengthen my skills.  
+- 📫 Reach me at --> izhan.asif999@gmail.com  
